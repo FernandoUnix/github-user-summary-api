@@ -1,0 +1,7 @@
+client:
+  post:
+    baseUrl: https://api.github.com
+
+spring:
+  application:
+    name:getFeignClient:
